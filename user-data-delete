@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Data Deletion Instructions</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+    a { color: #1877f2; }
+  </style>
+</head>
+<body>
+  <h1>Data Deletion Instructions</h1>
+  <p><strong>Last updated: November 27, 2025</strong></p>
+
+  <p>This app is used only to publish posts to the developer’s own Facebook Page and Instagram Business account via the Meta Graph API from the automation tool n8n.</p>
+
+  <p><strong>We do not collect, store, or process any personal user data.</strong>  
+  The only information used are temporary access tokens provided by Meta for authentication.</p>
+
+  <p>If you wish to revoke access or delete any association with this app:</p>
+  <ol>
+    <li>Go to your <a href="https://www.facebook.com/settings?tab=business_tools" target="_blank">Facebook Business Integrations settings</a></li>
+    <li>Find this app in the list and click “Remove”</li>
+    <li>Or go to <a href="https://accountscenter.instagram.com/personal_info/app_data/" target="_blank">Instagram Accounts Center → Apps and Websites</a> and remove it</li>
+  </ol>
+
+  <p>Meta automatically deletes expired access tokens. No further action is required.</p>
+</body>
+</html>
